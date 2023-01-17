@@ -2,7 +2,7 @@
 n=int(input('Enter a integer:'))
 if(n>0):
   print(n)
- else if(n<0):
+elif (n<0):
   print(-1*n)
 else:
   print(0)
