@@ -12,6 +12,7 @@ String2 = String1[0:2] + String1[3:]
 print("\nDeleting character at 2nd Index: ")
 print(String2)
 
+# Output
 # Initial String: 
 # Hello, I’m a Geek
 
